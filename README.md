@@ -19,4 +19,4 @@
 1. Reasonable understanding of unsupervised learning
 
 ## Additional Resources
-1. [Building a Custom Model in Scikit-Learn](https://towardsdatascience.com/building-a-custom-model-in-scikit-learn-b0da965a1299), by me, Tim Book! A blog post showing how we can use OOP to create our own custom Scikit-Learn models and shoehorn them into GridSearchCV.
+1. [Building a Custom Model in Scikit-Learn](https://medium.com/data-science/building-a-custom-model-in-scikit-learn-b0da965a1299), by Tim Book! A blog post showing how we can use OOP to create our own custom Scikit-Learn models and shoehorn them into GridSearchCV.
